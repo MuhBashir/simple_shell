@@ -86,8 +86,8 @@ ls -la
 ![114757753-e50c2180-9d64-11eb-95ea-fb9bba776c8c](https://user-images.githubusercontent.com/57016982/186711943-65abad4d-eedf-4d65-947d-3710e189bdee.png)
 
 ## Contributors :
-* [**Reny Kipkoech**](https://github.com/Tr-reny)
-* [**Stellah Mbao**](https://github.com/StellahMbao)
+* [**Muhammad Ibrahim**](https://github.com/MuhBashir)
+* [**Nazifi Jibril**](https://github.com/Namujibril)
 
 ## Acknowledgments :
 - The creators of the C language.
